@@ -40,8 +40,8 @@ Technology Stack:
  Data Validation:
  ----------------
  . First name and last name must contain only alphabetic characters.
- . Phone numbers must follow a predefined format (e.g., +CountryCode- 548484393).
- . Email IDs must follow a standard email format (e.g., jjireh@example.com).
+ . Phone numbers must follow a predefined format (e.g., +CountryCode-4394844).
+ . Email IDs must follow a standard email format (e.g.,assh@191.com).
  . Address should be valid and alphanumeric.
 
  Solution Architecture:
